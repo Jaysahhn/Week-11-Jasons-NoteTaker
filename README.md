@@ -2,20 +2,16 @@
 
 ## Description
 
-
+Applying the knowledge of backend development, the application we created allows you create/delete notes. The notes that are created will be saved for future modification. 
 
 ## Installation
 
-Node Package Manager (NPM), Express.js
+Node Package Manager (NPM), Express.js, Heroku
 
 ## Usage
-[Triangle](https://i.gyazo.com/a61e59535e95ca913a9a0a7be98c1508.png)
 
-[Circle](https://i.gyazo.com/f3ab994192d4f8a5fa4643ad0d40193f.png)
-
-[Square](https://i.gyazo.com/6edc3d10a2f56cae540dfaf09cd1bd38.png)
-
-[Video](https://drive.google.com/file/d/1aiDe1tE4fXXYYV1qc2twDyLc5MlY8cc8/view)
+Link to Deployed Application - https://intense-ocean-41146-c8ded9b4cdde.herokuapp.com/
+[Screenshot](https://i.gyazo.com/6da7c6da6c1336c4e27d1774b586adfc.png) 
 
 ## Credits
 
@@ -26,7 +22,6 @@ https://www.youtube.com/
 
 Cody Thompson: https://github.com/codyleight ||
 Bijan Olfati: https://github.com/bolfati || 
-Xpert Learning Assistant
 
 ## License
 MIT License
