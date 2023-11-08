@@ -21,7 +21,7 @@ https://developer.mozilla.org/en-US/ ||
 https://www.youtube.com/
 
 Cody Thompson: https://github.com/codyleight ||
-Bijan Olfati: https://github.com/bolfati || 
+Bijan Olfati: https://github.com/bolfati
 
 ## License
 MIT License
