@@ -10,7 +10,7 @@ Node Package Manager (NPM), Express.js, Heroku
 
 ## Usage
 
-Link to Deployed Application - https://intense-ocean-41146-c8ded9b4cdde.herokuapp.com/
+Link to Deployed Application - https://intense-ocean-41146-c8ded9b4cdde.herokuapp.com/ || 
 [Screenshot](https://i.gyazo.com/6da7c6da6c1336c4e27d1774b586adfc.png) 
 
 ## Credits
