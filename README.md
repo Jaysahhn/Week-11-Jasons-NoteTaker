@@ -2,7 +2,7 @@
 
 ## Description
 
-Applying the knowledge of backend development, the application we created allows you create/delete notes. The notes that are created will be saved for future modification. 
+Applying the knowledge we learned of backend development, the application we created allows you create/delete notes. The notes that are created will be saved for future modification. 
 
 ## Installation
 
